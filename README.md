@@ -21,7 +21,7 @@ Cobalt was made in Visual Studio using vb.net
 Please read CONTRIBUTING.MD for my rules and things to keep in mind when contributing
 
 ## Author(s)
-The entire code was written by Me & Lucaa8
+The entire code was written by Me & @th4t.way
 ## License
 
 This project is licensed under the GPLv3
