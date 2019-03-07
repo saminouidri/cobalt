@@ -1,4 +1,4 @@
-![Cobalt]([img]https://i.imgur.com/0vXZK3V.png[/img])
+![Cobalt](https://i.imgur.com/0vXZK3V.png)
 ## What is Cobalt?
 Cobalt is a simple MP3 player concept UI Implemented in Visual Studio.
 ## Installation :
