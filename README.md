@@ -2,7 +2,7 @@
 ## What is Cobalt?
 Cobalt is a simple MP3 player concept UI Implemented in Visual Studio.
 ## Installation :
-== [DOWNLOAD](http://www.mediafire.com/file/usl82ddf0i9pl41/DFK-Juice.zip/file)==
+== [DOWNLOAD](http://www.mediafire.com/file/evqjxa5e3ligq36/cobalt_v1.zip/file)==
 1. run setup.exe / DFK-Juice.application
 2. Enjoy!
 
